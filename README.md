@@ -11,7 +11,7 @@
 ║   ██║  ██║███████╗███████╗███████╗╚██████╔╝                  ║
 ║   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝                  ║
 ║                                                               ║
-║          > Full Stack Developer  |  Night Owl  |  Builder     ║
+║          > AI Software Engineer  |  Night Owl  |  Builder     ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -46,6 +46,8 @@ I build end-to-end products — from pixel-perfect frontends to battle-tested ba
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=go&logoColor=F7DF1E)
+
 
 ### 🛠 Frameworks & Libraries
 
@@ -54,6 +56,9 @@ I build end-to-end products — from pixel-perfect frontends to battle-tested ba
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=buffer&logoColor=00FF41)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=semanticweb&logoColor=7B61FF)
 
 ### 🗄 Databases
 
